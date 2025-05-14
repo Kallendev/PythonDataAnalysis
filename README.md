@@ -26,7 +26,7 @@ This project demonstrates data analysis and visualization using Python, focusing
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/Steven1823/python-week7.git
+git clone git@github.com:Kallendev/PythonDataAnalysis.git
 ```
 
 2. Install the required packages:
