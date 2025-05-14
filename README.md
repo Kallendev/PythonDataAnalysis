@@ -26,7 +26,7 @@ This project demonstrates data analysis and visualization using Python, focusing
 
 1. Clone this repository:
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/Steven1823/python-week7.git
 ```
 
 2. Install the required packages:
@@ -57,7 +57,7 @@ The script generates a single figure containing four different visualizations:
 
 ## Author
 
-[Your Name]
+Steven
 
 ## License
 
