@@ -1,4 +1,4 @@
-# Iris Dataset Analysis
+#  Dataset Analysis
 
 This project demonstrates data analysis and visualization using Python, focusing on the Iris dataset. It showcases the use of pandas for data manipulation and matplotlib/seaborn for creating insightful visualizations.
 
@@ -57,7 +57,7 @@ The script generates a single figure containing four different visualizations:
 
 ## Author
 
-Steven
+Kallen
 
 ## License
 
